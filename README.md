@@ -6,7 +6,7 @@ My name is Dima (nt1dc), I am a 2nd year student of ITMO University in the field
 - 🌱 I’m currently learning Spring
 - I have been writing in Java for the second year
 - I’m currently working on University Labs
-- I have base knowladge of: JS, React, PHP, CSS, HTML 
+- I have base knowledge of: JS, React, PHP, CSS, HTML 
 - I will be happy to take part in various it competitions and Hackathons
 - Contact with me [vk](https://vk.com/ntidc) or [telegram](https://t.me/nt1dc) 
 
