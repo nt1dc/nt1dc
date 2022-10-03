@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-My name is Dima (nt1dc), I am a 3nd year student of ITMO University in the field of software engineering. I am actively learning Spring Boot
+My name is Dima (nt1dc), I am a 3rd year student of ITMO University in the field of software engineering. I am actively learning Spring Boot
 
 - 🌱 I’m currently learning Spring
 - I have been writing in Java for the second year
